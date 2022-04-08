@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Mirja Blog: "Ich bin noch ein wenig unmotiviert,aber sehr bemüht, mir Content aus den Fingern zu saugen."
 ---
+Aber was solls...
 
-I'm glad you are here. I plan to talk about ...
